@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid silver;
+    padding: 8px;
+}
+
+th {
+    background-color: black;
+    color: cornsilk;
+}
+
+td {
+    background-color: darkgreen;
+    color: white;
+}
+
+td:hover {
+    background-color: yellow;
+    color: black;
+}
